@@ -1,0 +1,15 @@
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.exe
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.deps.json
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.runtimeconfig.json
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.dll
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.pdb
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.vbproj.AssemblyReference.cache
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfoInputs.cache
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfo.vb
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.vbproj.CoreCompileInputs.cache
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.dll
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\refint\hola_mundo.dll
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.pdb
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.genruntimeconfig.cache
+C:\Users\earau\source\repos\hola_mundo\hola_mundo\obj\Debug\net6.0\ref\hola_mundo.dll
